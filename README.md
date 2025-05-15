@@ -1,0 +1,1 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MohsinKM/learn_agentic_ai/blob/main/agentic_data_pipeline_crewai_updated_colab.ipynb)

@@ -17,11 +17,28 @@ The goal is to demonstrate **agent coordination**, which is a foundational conce
 
 ## 🚀 Try It in Google Colab
 
-Click below to open and run the notebook:
+You can run both versions of the notebook directly in Colab:
+
+---
+
+### 🧩 Part 1: Agentic Data Pipeline using CrewAI (Iris Dataset)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MohsinKM/learn_agentic_ai/blob/main/agentic_data_pipeline_crewai_updated_colab.ipynb)
 
-> 💡 *Once opened, go to `File → Save a copy in Drive` to make your own editable version.*
+> 📘 *Loads a static CSV dataset and plots a simple scatter chart using agents.*
+
+---
+
+### 🌐 Part 2: CrewAI with MCP Integration (Live Weather Data)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MohsinKM/learn_agentic_ai/blob/main/agentic_data_pipeline_crewai-part2.ipynb)
+
+> 🌦️ *Fetches live hourly temperature data from a public weather API and visualizes it with agents—demonstrating basic MCP (Model Context Protocol) integration.*
+
+---
+
+💡 *For both notebooks: Go to `File → Save a copy in Drive` to run and edit your own version.*
+
 
 ---
 
